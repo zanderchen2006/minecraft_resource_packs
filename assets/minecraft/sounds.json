@@ -1,0 +1,20 @@
+{
+	"jingle.ratp": {
+		"sounds": ["custom/jingle-ratp"]
+	},
+	"jingle.sncf": {
+		"sounds": ["custom/jingle-sncf"]
+	},
+	"ansage.gare-central": {
+		"sounds": ["custom/gare-central"]
+	},
+	"ansage.la-ville-du-sud": {
+		"sounds": ["custom/la-ville-du-sud"]
+	},
+	"ansage.rue-de-lyon": {
+		"sounds": ["custom/rue-de-lyon"]
+	},
+	"ansage.rue-de-strasbourg": {
+		"sounds": ["custom/rue-de-strasbourg"]
+	}
+}
